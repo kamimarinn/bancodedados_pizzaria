@@ -4,4 +4,4 @@
 
 > Nesse exercicio armazenamos informações sobre uma pizzaria, tabelas sobre clientes, pedidos, pizzas, entre outras opções. 
 
--2DM | Senai Suiço Brasileiro 
+-2DM | Senai Suíço Brasileiro 
